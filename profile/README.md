@@ -26,7 +26,7 @@ With Rönd you can create your own fully-equipped Viking warrior infrastructure!
 
 # Resources
 
-* Find out how it all started: [How and why we adopted Role-Based Access Control (RBAC)](https://blog.mia-platform.eu/en/how-why-adopted-role-based-access-control-rbac)
+* Find out how it all started: [How and why we adopted Role-Based Access Control (RBAC)](https://blog.mia-platform.eu/en/how-why-adopted-role-based-access-control-rbac?utm_source=github&utm_medium=rond-open-source)
 * New to what RBAC is? Find out more here: [Role-based access control - Wikipedia](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 # Other open source projects supported by Mia-Platform
