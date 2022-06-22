@@ -6,7 +6,7 @@
 
 # Welcome to Rönd
 
-Rönd is an open source RBAC solution. The project started in 2021 within [Mia-Platform](https://github.com/mia-platform), and was launched open source in 2022 after several months of testing in production environments. Rönd leverages [Open Policy Agent](https://github.com/open-policy-agent/opa) (OPA), the [CNCF](https://www.cncf.io) graduated policy engine, to allow you to set granular permissions.
+Rönd is an open source RBAC solution. The project started in 2021 within [Mia-Platform](https://github.com/mia-platform), and was launched open source in 2022 after several months of production usage. Rönd leverages [Open Policy Agent](https://github.com/open-policy-agent/opa) (OPA), the [CNCF](https://www.cncf.io) graduated policy engine, to allow you to set granular permissions.
 
 # Why Rönd
 
