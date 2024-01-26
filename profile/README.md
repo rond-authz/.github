@@ -31,4 +31,4 @@ With Rönd you can create your own fully-equipped Viking warrior infrastructure!
 
 * [micro-lc](https://github.com/micro-lc): a micro frontend orchestrator 
 * [kube-green](https://github.com/kube-green): a k8s operator to reduce CO2 footprint of your clusters
-* [CRUD Service](https://github.com/mia-platform/crud-service): a CRUD Service to abstract MongoDB collections
+* [CRUD Service](https://github.com/mia-platform/crud-service): a microservice to abstract MongoDB collections with RESTful CRUD API
