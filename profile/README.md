@@ -6,7 +6,7 @@
 
 # Welcome to Rönd
 
-Rönd is a lightweight container that distributes security policy enforcement throughout your application. The project started in 2021 within [Mia-Platform](https://github.com/mia-platform), and was launched open source in 2022 after several months of production usage. Rönd leverages [Open Policy Agent](https://github.com/open-policy-agent/opa) (OPA), the [CNCF](https://www.cncf.io) graduated policy engine, to allow you to set granular permissions.
+Rönd is a lightweight container that distributes security policy enforcement throughout your application. The project started in 2021 within [Mia-Platform](https://github.com/mia-platform), and was launched open source in 2022 after several months of production usage. Rönd leverages [Open Policy Agent](https://github.com/open-policy-agent/opa) (OPA), the [CNCF](https://www.cncf.io) graduated policy engine, to allow you to set granular permissions. It is currently listed in the [OPA Ecosystem](https://www.openpolicyagent.org/ecosystem/).
 
 # Why Rönd
 
@@ -22,11 +22,13 @@ With Rönd you can create your own fully-equipped Viking warrior infrastructure!
 
 # Resources
 
-* Read the official announcement: [Announcing Rönd, a new open-source Security Enforcement over your APIs](https://blog.mia-platform.eu/en/announcing-rond-new-open-source-security-enforcement-over-your-apis?utm_source=github&utm_medium=rond-open-source)
-* Find out how it all started: [How and why we adopted Role-Based Access Control (RBAC)](https://blog.mia-platform.eu/en/how-why-adopted-role-based-access-control-rbac?utm_source=github&utm_medium=rond-open-source)
+* Read the official announcement: [Announcing Rönd, a new open-source Security Enforcement over your APIs](https://mia-platform.eu/blog/rond-open-source-api-enforcement/?utm_source=github&utm_medium=rond-open-source)
+* Find out how it all started: [How and why we adopted Role-Based Access Control (RBAC)](https://mia-platform.eu/blog/role-based-access-control-rbac/?utm_source=github&utm_medium=rond-open-source)
+* Download the free white paper about RBAC in Platform Engineering: [RBAC implementation in Platform Engineering. A comprehensive guide](https://resources.mia-platform.eu/en/white-paper-rbac-platform-engineering?utm_source=github&utm_medium=rond-open-source)
 * New to what RBAC is? Find out more here: [Role-based access control - Wikipedia](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 # Other open source projects supported by Mia-Platform
 
 * [micro-lc](https://github.com/micro-lc): a micro frontend orchestrator 
 * [kube-green](https://github.com/kube-green): a k8s operator to reduce CO2 footprint of your clusters
+* [CRUD Service](https://github.com/mia-platform/crud-service): a microservice to abstract MongoDB collections with RESTful CRUD API
